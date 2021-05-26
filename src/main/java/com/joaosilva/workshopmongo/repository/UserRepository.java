@@ -11,7 +11,4 @@ import com.joaosilva.workshopmongo.domain.User;
 public interface UserRepository extends MongoRepository<User, String> {
 
 	
-	
-	
-
 }
